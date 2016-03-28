@@ -1,6 +1,6 @@
 {
   "name": "shortcut-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns the textual representation of a shortcut given a keyboard event in the browser",
   "license": "MIT",
   "repository": {
