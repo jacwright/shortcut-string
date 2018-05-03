@@ -1,10 +1,13 @@
 {
   "name": "shortcut-string",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Returns the textual representation of a shortcut given a keyboard event in the browser",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/jacwright/shortcut-string.git"
+  },
+  "dependencies": {
+    "keyboardevent-key-polyfill": "^1.0.2"
   }
 }
